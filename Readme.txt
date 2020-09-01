@@ -30,3 +30,18 @@ Empieza a crear los modelos
 6. Crea Experience
 7. Crea borrar Experience
 8. Crea generar y borrar Education
+9. Crear y borrar post
+11. Crear y borrar comments
+
+// Front end
+1. Instalar ( npx create-react-app client ) 
+2. Crear scripts en package.json para correr concurrently:     "client": "npm start --prefix client",
+    "dev": "concurrently \" npm run server\" \"npm run client\"" y se revisa con npm start dev
+3. Instalar dependencias en client <npm i axios react-router-dom redux react-redux redux-thunk redux-devtools-extension moment react-moment>
+4. Se borran los archivos de github del client
+5. Adiciona un proxy
+6. Se borran css, service-worker, logo y otra
+7. Se crean los compomentes
+8. Se crea componente de navbar
+9. Se crea componente de landing
+
