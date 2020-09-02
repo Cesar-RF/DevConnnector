@@ -37,11 +37,23 @@ Empieza a crear los modelos
 1. Instalar ( npx create-react-app client ) 
 2. Crear scripts en package.json para correr concurrently:     "client": "npm start --prefix client",
     "dev": "concurrently \" npm run server\" \"npm run client\"" y se revisa con npm start dev
-3. Instalar dependencias en client <npm i axios react-router-dom redux react-redux redux-thunk redux-devtools-extension moment react-moment>
+3. Instalar dependencias en client <npm i axios uuid react-router-dom redux react-redux redux-thunk redux-devtools-extension moment react-moment>
 4. Se borran los archivos de github del client
 5. Adiciona un proxy
 6. Se borran css, service-worker, logo y otra
 7. Se crean los compomentes
 8. Se crea componente de navbar
 9. Se crea componente de landing
+10. Se crea componente de Login
+11. Se crea componente de Register
+12. Se crea el router
+13. Se crea la página de Register
+14. Se instala redux
+15. Se genera la Store de Redux
+16. Se desarrollan los Reducers
+17. Se generan los archivos del folder actions para Register
+18. Para cada action: se genera la Action, las const en Types, se modifican las Actions, se modifican los Reducers
+
+
+
 
