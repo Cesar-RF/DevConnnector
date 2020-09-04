@@ -53,6 +53,18 @@ Empieza a crear los modelos
 16. Se desarrollan los Reducers
 17. Se generan los archivos del folder actions para Register
 18. Para cada action: se genera la Action, las const en Types, se modifican las Actions, se modifican los Reducers
+19. Se crean los profiles para exhibir en el perfil de cada developer
+
+
+El ciclo es: 
+1. SE CREA EL REDUCER
+2. SE CREA EL ACTIONS FILE
+3. SE CREA EL COMPONENT
+4. SE INTEGRA A DONDE SEA NECESARIO EL HTML
+
+Todo lo de los posts:
+1. Crear el post reducer
+2. Integrarlo en el reducers index
 
 
 
