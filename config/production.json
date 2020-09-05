@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://cesar123:cesar123@cluster0.yyinm.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "5a27474ec3c221310992",
+  "githubSecret": "43b8eab93194bea2101c3f6e8a0dea2fb8e54149"
+}

@@ -56,7 +56,7 @@ Empieza a crear los modelos
 19. Se crean los profiles para exhibir en el perfil de cada developer
 
 
-El ciclo es: 
+El ciclo en REDUX es: 
 1. SE CREA EL REDUCER
 2. SE CREA EL ACTIONS FILE
 3. SE CREA EL COMPONENT
